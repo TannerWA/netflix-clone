@@ -1,6 +1,8 @@
 # Getting Started with Netflix-Clone
 
-This project aims to provide a front-end, mobile-responsive implementation of Netflix. It uses the API from [the Movie Database](https://developers.themoviedb.org/3/getting-started/introduction) to retreive shows and movies from various genres currently hosted by Netflix.
+This project aims to provide a front-end, mobile-responsive implementation of Netflix. It uses the API from [the Movie Database](https://developers.themoviedb.org/3/getting-started/introduction) to retreive shows and movies from various genres currently hosted by Netflix. It also uses the react-YouTube library to fetch trailers to display when titles are clicked on*.
+
+**This has limited functionality as not all trailers are retrievable or viewable on YouTube.*
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
